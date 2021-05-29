@@ -18,15 +18,14 @@ The aim of the following project was to scrape the most important platform for m
 
 ## How to execute this code
 
-1. as the underlying html code on the IMDb page was completely redone after our scraper was built, most parts will not work anymore. However, the datasets needed to execute the code where gathered prior to the launch of the new homepage and can all be found within the repository. Thus, there is no need for further data download.
+1. as the underlying html code on the IMDb page was completely redone after our scraper was built, most parts of the scraper will not work anymore. However, the dataset needed to execute the code was gathered prior to the launch of the new homepage and can be found within the repository (imdb_top_movies). Thus, there is no need for further data download or rerunning the scraper. The user can thus directly start with file 2: data preparation & descriptive statistics.
 
-2. Make sure that the appropriate packages are loaded and installed.
+2. Make sure that the appropriate software packages are loaded and installed.
 
 3. Run code files sequentially and use functions as further elaborated in the specific chunk of code.
 
-### Note on code components
+## Note on code components
 This code was written by using Conda by using packages from the Anaconda repository as well as from the Anaconda Cloud. By using Conda there was no need to have compilers available to install those packages. Additionally, the packages are not limited to Python software and might alos contain C or C++ libraires, R packages or even further software.
-
 
 ## Project Structure
 Our project was structured around three sets of codes
