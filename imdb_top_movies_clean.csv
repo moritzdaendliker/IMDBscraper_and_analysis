@@ -1,0 +1,199 @@
+,Unnamed: 0,rank,IMDB_id,movie_name,year,director,starring,rating,number_of_reviews,genres,country,language,budget,box_office_revenue,runtime
+0,0,1,111161,The Shawshank Redemption,1994,Frank Darabont,"Tim Robbins, Morgan Freeman, Bob Gunton",9.3,2395380,Drama,USA,English,25000000,28817291.0,142
+1,0,2,68646,The Godfather,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino, James Caan",9.2,1659275,Crime Drama,USA,English Italian Latin,6000000,246120986.0,175
+2,0,3,71562,The Godfather: Part II,1974,Francis Ford Coppola,"Al Pacino, Robert De Niro, Robert Duvall",9.0,1153451,Crime Drama,USA,English Italian Spanish Latin Sicilian,13000000,48035783.0,202
+3,0,4,468569,The Dark Knight,2008,Christopher Nolan,"Christian Bale, Heath Ledger, Aaron Eckhart",9.0,2357059,Action Crime Drama Thriller,USA UK,English Mandarin,185000000,1005973645.0,152
+4,0,5,50083,12 Angry Men,1957,Sidney Lumet,"Henry Fonda, Lee J. Cobb, Martin Balsam",9.0,706423,Crime Drama,USA,English,350000,955.0,96
+5,0,6,108052,Schindler's List,1993,Steven Spielberg,"Liam Neeson, Ralph Fiennes, Ben Kingsley",8.9,1236736,Biography Drama History,USA,English Hebrew German Polish Latin,22000000,322161245.0,195
+6,0,7,167260,The Lord of the Rings: The Return of the King,2003,Peter Jackson,"Elijah Wood, Viggo Mortensen, Ian McKellen",8.9,1673134,Action Adventure Drama Fantasy,New Zealand USA,English Quenya Old English Sindarin,94000000,1146030912.0,201
+7,0,8,110912,Pulp Fiction,1994,Quentin Tarantino,"John Travolta, Uma Thurman, Samuel L. Jackson",8.9,1863232,Crime Drama,USA,English Spanish French,8000000,213928762.0,154
+8,0,9,60196,"The Good, the Bad and the Ugly",1966,Sergio Leone,"Clint Eastwood, Eli Wallach, Lee Van Cleef",8.8,700603,Western,Italy Spain West Germany,Italian,1200000,25253751.0,161
+9,0,10,120737,The Lord of the Rings: The Fellowship of the Ring,2001,Peter Jackson,"Elijah Wood, Ian McKellen, Orlando Bloom",8.8,1693881,Action Adventure Drama Fantasy,New Zealand USA,English Sindarin,93000000,897690072.0,178
+10,0,11,137523,Fight Club,1999,David Fincher,"Brad Pitt, Edward Norton, Meat Loaf",8.8,1893056,Drama,Germany USA,English,63000000,101209702.0,139
+11,0,12,109830,Forrest Gump,1994,Robert Zemeckis,"Tom Hanks, Robin Wright, Gary Sinise",8.8,1852268,Drama Romance,USA,English,55000000,678226133.0,142
+12,0,13,1375666,Inception,2010,Christopher Nolan,"Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page",8.8,2115066,Action Adventure Sci-Fi Thriller,USA UK,English Japanese French,160000000,836836967.0,148
+13,0,14,167261,The Lord of the Rings: The Two Towers,2002,Peter Jackson,"Elijah Wood, Ian McKellen, Viggo Mortensen",8.7,1513034,Action Adventure Drama Fantasy,New Zealand USA,English Sindarin Old English,94000000,947495095.0,179
+14,0,15,80684,Star Wars: Episode V - The Empire Strikes Back,1980,Irvin Kershner,"Mark Hamill, Harrison Ford, Carrie Fisher",8.7,1179280,Action Adventure Fantasy Sci-Fi,USA UK,English,18000000,538375067.0,124
+15,0,16,133093,The Matrix,1999,Lana Wachowski(as The Wachowski Brothers),"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",8.7,1711264,Action Sci-Fi,USA Australia,English,63000000,466364845.0,136
+16,0,17,99685,Goodfellas,1990,Martin Scorsese,"Robert De Niro, Ray Liotta, Joe Pesci",8.7,1043027,Biography Crime Drama,USA,English Italian,25000000,46952991.0,146
+17,0,18,73486,One Flew Over the Cuckoo's Nest,1975,Milos Forman,"Jack Nicholson, Louise Fletcher, Michael Berryman",8.7,933614,Drama,USA,English,3000000,108997629.0,133
+19,0,20,114369,Se7en,1995,David Fincher,"Morgan Freeman, Brad Pitt, Kevin Spacey",8.6,1477687,Crime Drama Mystery Thriller,USA,English,33000000,327333559.0,127
+20,0,21,102926,The Silence of the Lambs,1991,Jonathan Demme,"Jodie Foster, Anthony Hopkins, Lawrence A. Bonney",8.6,1299010,Crime Drama Thriller,USA,English Latin,19000000,272742922.0,118
+22,0,23,38650,It's a Wonderful Life,1946,Frank Capra,"James Stewart, Donna Reed, Lionel Barrymore",8.6,412580,Drama Family Fantasy,USA,English French,3180000,6184298.0,130
+23,0,24,118799,Life Is Beautiful,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi, Giorgio Cantarini",8.6,636988,Comedy Drama Romance War,Italy,Italian German English,20000000,230098753.0,116
+24,0,25,76759,Star Wars: Episode IV - A New Hope,1977,George Lucas,"Mark Hamill, Harrison Ford, Carrie Fisher",8.6,1251358,Action Adventure Fantasy Sci-Fi,USA UK,English,11000000,775398007.0,121
+25,0,26,120815,Saving Private Ryan,1998,Steven Spielberg,"Tom Hanks, Matt Damon, Tom Sizemore",8.6,1262950,Drama War,USA,English French German Czech,70000000,482349603.0,169
+26,0,27,245429,Spirited Away,2001,Hayao Miyazaki,"Daveigh Chase, Suzanne Pleshette, Miyu Irino",8.6,671064,Animation Adventure Family Fantasy Mystery,Japan,Japanese English,19000000,355475245.0,125
+27,0,28,120689,The Green Mile,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan, David Morse",8.6,1174012,Crime Drama Fantasy Mystery,USA,English French,60000000,286801374.0,189
+28,0,29,816692,Interstellar,2014,Christopher Nolan,"Matthew McConaughey, Anne Hathaway, Jessica Chastain",8.6,1559662,Adventure Drama Sci-Fi,USA UK Canada,English,165000000,701729206.0,169
+29,0,30,6751668,Parasite,2019,Bong Joon Ho,"Kang-ho Song, Sun-kyun Lee, Yeo-jeong Cho",8.6,609557,Comedy Drama Thriller,South Korea,Korean English,11400000,258857505.0,132
+32,0,33,114814,The Usual Suspects,1995,Bryan Singer,"Kevin Spacey, Gabriel Byrne, Chazz Palminteri",8.5,1007857,Crime Mystery Thriller,USA Germany,English Hungarian Spanish French,6000000,23341568.0,106
+33,0,34,253474,The Pianist,2002,Roman Polanski,"Adrien Brody, Thomas Kretschmann, Frank Finlay",8.5,749089,Biography Drama Music War,UK France Poland Germany USA,English German Russian,35000000,120072577.0,150
+34,0,35,88763,Back to the Future,1985,Robert Zemeckis,"Michael J. Fox, Christopher Lloyd, Lea Thompson",8.5,1082318,Adventure Comedy Sci-Fi,USA,English,19000000,381906762.0,116
+35,0,36,103064,Terminator 2: Judgment Day,1991,James Cameron,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong",8.5,1011157,Action Sci-Fi,USA,English Spanish,102000000,520881154.0,137
+36,0,37,27977,Modern Times,1936,Charles Chaplin(as Charlie Chaplin),"Charles Chaplin, Paulette Goddard, Henry Bergman",8.5,222713,Comedy Drama Family Romance,USA,English,1500000,457688.0,87
+37,0,38,54215,Psycho,1960,Alfred Hitchcock,"Anthony Perkins, Janet Leigh, Vera Miles",8.5,615734,Horror Mystery Thriller,USA,English,806947,32040242.0,109
+38,0,39,110357,The Lion King,1994,Roger Allers,"Matthew Broderick, Jeremy Irons, James Earl Jones",8.5,961678,Animation Adventure Drama Family Musical,USA,English Swahili Xhosa Zulu,45000000,1083720877.0,88
+39,0,40,120586,American History X,1998,Tony Kaye,"Edward Norton, Edward Furlong, Beverly DAngelo",8.5,1049607,Drama,USA,English,20000000,23875127.0,119
+40,0,41,21749,City Lights,1931,Charles Chaplin,"Charles Chaplin, Virginia Cherrill, Florence Lee",8.5,171164,Comedy Drama Romance,USA,None English,1500000,46008.0,87
+41,0,42,172495,Gladiator,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix, Connie Nielsen",8.5,1366738,Action Adventure Drama,USA UK Malta Morocco,English,103000000,465364545.0,155
+42,0,43,407887,The Departed,2006,Martin Scorsese,"Leonardo DiCaprio, Matt Damon, Jack Nicholson",8.5,1213454,Crime Drama Thriller,USA Hong Kong,English Cantonese,90000000,291465373.0,151
+43,0,44,2582802,Whiplash,2014,Damien Chazelle,"Miles Teller, J.K. Simmons, Melissa Benoist",8.5,739154,Drama Music,USA,English,3300000,49396747.0,106
+44,0,45,95327,Grave of the Fireflies,1988,Isao Takahata,"Tsutomu Tatsumi, Ayano Shiraishi, Akemi Yamaguchi",8.5,243150,Animation Drama War,Japan USA,Japanese,3700000,516962.0,89
+46,0,47,482571,The Prestige,2006,Christopher Nolan,"Christian Bale, Hugh Jackman, Scarlett Johansson",8.5,1216171,Drama Mystery Sci-Fi Thriller,UK USA,English,40000000,109676311.0,130
+47,0,48,34583,Casablanca,1942,Michael Curtiz,"Humphrey Bogart, Ingrid Bergman, Paul Henreid",8.5,530573,Drama Romance War,USA,English French German Italian,950000,4376287.0,102
+48,0,49,64116,Once Upon a Time in the West,1968,Sergio Leone,"Henry Fonda, Charles Bronson, Claudia Cardinale",8.5,307830,Western,Italy USA,English Italian Spanish,5000000,5434825.0,165
+49,0,50,47396,Rear Window,1954,Alfred Hitchcock,"James Stewart, Grace Kelly, Wendell Corey",8.5,452243,Mystery Thriller,USA,English,1000000,37034514.0,112
+50,0,51,95765,Cinema Paradiso,1988,Giuseppe Tornatore,"Philippe Noiret, Enzo Cannavale, Antonella Attili",8.5,236558,Drama Romance,Italy France,Italian,5000000,13019063.0,155
+51,0,52,78748,Alien,1979,Ridley Scott,"Sigourney Weaver, Tom Skerritt, John Hurt",8.4,803231,Horror Sci-Fi,UK USA,English,11000000,106285522.0,117
+52,0,53,78788,Apocalypse Now,1979,Francis Ford Coppola(as Francis Coppola),"Martin Sheen, Marlon Brando, Robert Duvall",8.4,617394,Drama Mystery War,USA,English French Vietnamese,31500000,92149094.0,147
+53,0,54,209144,Memento,2000,Christopher Nolan,"Guy Pearce, Carrie-Anne Moss, Joe Pantoliano",8.4,1145234,Mystery Thriller,USA,English,9000000,40047078.0,113
+54,0,55,82971,Indiana Jones and the Raiders of the Lost Ark,1981,Steven Spielberg,"Harrison Ford, Karen Allen, Paul Freeman",8.4,897615,Action Adventure,USA,English German Hebrew Spanish Arabic Nepali,18000000,389925971.0,115
+55,0,56,32553,The Great Dictator,1940,Charles Chaplin,"Charles Chaplin, Paulette Goddard, Jack Oakie",8.4,206914,Comedy Drama War,USA,English Esperanto,2000000,969879.0,125
+56,0,57,405094,The Lives of Others,2006,Florian Henckel von Donnersmarck,"Ulrich Mühe, Martina Gedeck, Sebastian Koch",8.4,365445,Drama Mystery Thriller,Germany France,German,2000000,77356942.0,137
+57,0,58,1853728,Django Unchained,2012,Quentin Tarantino,"Jamie Foxx, Christoph Waltz, Leonardo DiCaprio",8.4,1389585,Drama Western,USA,English German French Italian,100000000,426074373.0,165
+58,0,59,50825,Paths of Glory,1957,Stanley Kubrick,"Kirk Douglas, Ralph Meeker, Adolphe Menjou",8.4,182040,Drama War,USA,English German Latin,935000,5252.0,88
+59,0,60,43014,Sunset Blvd.,1950,Billy Wilder,"William Holden, Gloria Swanson, Erich von Stroheim",8.4,205351,Drama Film-Noir,USA,English,1752000,300073.0,110
+60,0,61,910970,WALL·E,2008,Andrew Stanton,"Ben Burtt, Elissa Knight, Jeff Garlin",8.4,1019533,Animation Adventure Family Romance Sci-Fi,USA,English Hindi,180000000,521311890.0,98
+61,0,62,81505,The Shining,1980,Stanley Kubrick,"Jack Nicholson, Shelley Duvall, Danny Lloyd",8.4,917728,Drama Horror,UK USA,English,19000000,46998772.0,144
+62,0,63,7286456,Joker,2019,Todd Phillips,"Joaquin Phoenix, Robert De Niro, Zazie Beetz",8.4,1000121,Crime Drama Thriller,USA Canada,English,55000000,1074251311.0,122
+63,0,64,4154756,Avengers: Infinity War,2018,Anthony Russo,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",8.4,878614,Action Adventure Sci-Fi,USA,English,321000000,2048359754.0,149
+64,0,65,51201,Witness for the Prosecution,1957,Billy Wilder,"Tyrone Power, Marlene Dietrich, Charles Laughton",8.4,111923,Crime Drama Mystery Thriller,USA,English German,3000000,7693.0,116
+65,0,66,57012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,Stanley Kubrick,"Peter Sellers, George C. Scott, Sterling Hayden",8.4,457420,Comedy,UK USA,English Russian,1800000,9444747.0,95
+66,0,67,4633694,Spider-Man: Into the Spider-Verse,2018,Bob Persichetti,"Shameik Moore, Jake Johnson, Hailee Steinfeld",8.4,400498,Animation Action Adventure Family Sci-Fi,USA,English Spanish,90000000,375540831.0,117
+68,0,69,364569,Oldboy,2003,Chan-wook Park,"Choi Min-sik, Yoo Ji-Tae, Kang Hye-jeong",8.4,527101,Action Drama Mystery Thriller,South Korea,Korean,3000000,15002116.0,120
+70,0,71,87843,Once Upon a Time in America,1984,Sergio Leone,"Robert De Niro, James Woods, Elizabeth McGovern",8.4,318305,Crime Drama,Italy USA,English Italian French Yiddish Hebrew,30000000,5472914.0,229
+72,0,73,1345836,The Dark Knight Rises,2012,Christopher Nolan,"Christian Bale, Tom Hardy, Anne Hathaway",8.4,1545686,Action Adventure,UK USA,English Arabic,250000000,1081142612.0,164
+73,0,74,90605,Aliens,1986,James Cameron,"Sigourney Weaver, Michael Biehn, Carrie Henn",8.3,663046,Action Adventure Sci-Fi Thriller,UK USA,English,18500000,131060248.0,137
+74,0,75,2380307,Coco,2017,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",8.4,406224,Animation Adventure Drama Family Fantasy Music Mystery,USA Mexico,English Spanish,175000000,807817888.0,105
+76,0,77,8267604,Capernaum,2018,Nadine Labaki,"Zain Al Rafeea, Yordanos Shiferaw, Boluwatife Treasure Bankole",8.4,69089,Drama,Lebanon USA France Cyprus Qatar UK,Arabic Amharic,4000000,64417003.0,126
+77,0,78,4154796,Avengers: Endgame,2019,Anthony Russo,"Robert Downey Jr., Chris Evans, Mark Ruffalo",8.4,876259,Action Adventure Drama Sci-Fi,USA,English Japanese Xhosa German,356000000,2797501328.0,181
+79,0,80,169547,American Beauty,1999,Sam Mendes,"Kevin Spacey, Annette Bening, Thora Birch",8.3,1085078,Drama,USA,English,15000000,356296601.0,122
+80,0,81,114709,Toy Story,1995,John Lasseter,"Tom Hanks, Tim Allen, Don Rickles",8.3,905015,Animation Adventure Comedy Family Fantasy,USA,English,30000000,394436586.0,81
+81,0,82,112573,Braveheart,1995,Mel Gibson,"Mel Gibson, Sophie Marceau, Patrick McGoohan",8.3,973120,Biography Drama History War,USA,English French Latin Scottish Gaelic Italian,72000000,213216216.0,178
+82,0,83,86879,Amadeus,1984,Milos Forman,"F. Murray Abraham, Tom Hulce, Elizabeth Berridge",8.3,375004,Biography Drama History Music,USA France Czechoslovakia Italy,English Italian Latin German,18000000,52066791.0,160
+84,0,85,361748,Inglourious Basterds,2009,Quentin Tarantino,"Brad Pitt, Diane Kruger, Eli Roth",8.3,1298208,Adventure Drama War,USA Germany,English German French Italian,70000000,321457747.0,153
+85,0,86,119217,Good Will Hunting,1997,Gus Van Sant,"Robin Williams, Matt Damon, Ben Affleck",8.3,880038,Drama Romance,USA,English,10000000,225933435.0,126
+86,0,87,86190,Star Wars: Episode VI - Return of the Jedi,1983,Richard Marquand,"Mark Hamill, Harrison Ford, Carrie Fisher",8.3,966437,Action Adventure Fantasy Sci-Fi,USA UK,English,32500000,475106177.0,131
+87,0,88,62622,2001: A Space Odyssey,1968,Stanley Kubrick,"Keir Dullea, Gary Lockwood, William Sylvester",8.3,614618,Adventure Sci-Fi,UK USA,English Russian,12000000,65783882.0,149
+88,0,89,105236,Reservoir Dogs,1992,Quentin Tarantino,"Harvey Keitel, Tim Roth, Michael Madsen",8.3,935909,Crime Drama Thriller,USA,English,1200000,2892430.0,99
+91,0,92,33467,Citizen Kane,1941,Orson Welles,"Orson Welles, Joseph Cotten, Dorothy Comingore",8.3,412455,Drama Mystery,USA,English Italian,839727,1601055.0,119
+92,0,93,52357,Vertigo,1958,Alfred Hitchcock,"James Stewart, Kim Novak, Barbara Bel Geddes",8.3,371413,Mystery Romance Thriller,USA,English,2479000,7797300.0,128
+93,0,94,180093,Requiem for a Dream,2000,Darren Aronofsky,"Ellen Burstyn, Jared Leto, Jennifer Connelly",8.3,780261,Drama,USA,English,4500000,7390108.0,102
+94,0,95,2106476,The Hunt,2012,Thomas Vinterberg,"Mads Mikkelsen, Thomas Bo Larsen, Annika Wedderkopp",8.3,292532,Drama,Denmark Sweden,Danish English Polish,3800000,15843274.0,115
+95,0,96,45152,Singin' in the Rain,1952,Stanley Donen,"Gene Kelly, Donald OConnor, Debbie Reynolds",8.3,223072,Comedy Musical Romance,USA,English,2540800,1865056.0,103
+96,0,97,53125,North by Northwest,1959,Alfred Hitchcock,"Cary Grant, Eva Marie Saint, James Mason",8.3,303927,Adventure Mystery Thriller,USA,English French,3101000,73695.0,136
+97,0,98,338013,Eternal Sunshine of the Spotless Mind,2004,Michel Gondry,"Jim Carrey, Kate Winslet, Tom Wilkinson",8.3,927617,Drama Romance Sci-Fi,USA,English,20000000,74036715.0,108
+99,0,100,40522,Bicycle Thieves,1948,Vittorio De Sica,"Lamberto Maggiorani, Enzo Staiola, Lianella Carell",8.3,149990,Drama,Italy,Italian English German,133000,428978.0,89
+101,0,102,56172,Lawrence of Arabia,1962,David Lean,"Peter OToole, Alec Guinness, Anthony Quinn",8.3,272699,Adventure Biography Drama History War,UK,English Arabic Turkish,15000000,45715757.0,187
+103,0,104,12349,The Kid,1921,Charles Chaplin(as Charlie Chaplin),"Charles Chaplin, Edna Purviance, Jackie Coogan",8.3,116286,Comedy Drama Family,USA,None English,250000,26916.0,68
+104,0,105,93058,Full Metal Jacket,1987,Stanley Kubrick,"Matthew Modine, R. Lee Ermey, Vincent DOnofrio",8.3,686418,Drama War,UK USA,English Vietnamese,30000000,46357676.0,116
+106,0,107,66921,A Clockwork Orange,1971,Stanley Kubrick,"Malcolm McDowell, Patrick Magee, Michael Bates",8.3,769926,Crime Drama Sci-Fi,UK USA,English,2200000,26904636.0,136
+107,0,108,75314,Taxi Driver,1976,Martin Scorsese,"Robert De Niro, Jodie Foster, Cybill Shepherd",8.3,741311,Crime Drama,USA,English Spanish,1300000,28441292.0,114
+109,0,110,70735,The Sting,1973,George Roy Hill,"Paul Newman, Robert Redford, Robert Shaw",8.3,245434,Comedy Crime Drama,USA,English,5500000,156000000.0,129
+110,0,111,8579674,1917,2019,Sam Mendes,"Dean-Charles Chapman, George MacKay, Daniel Mays",8.3,461429,Drama Thriller War,USA UK India Spain Canada China,English French German,95000000,384987108.0,119
+111,0,112,36775,Double Indemnity,1944,Billy Wilder,"Fred MacMurray, Barbara Stanwyck, Edward G. Robinson",8.3,146210,Crime Drama Film-Noir Mystery Thriller,USA,English,927262,14190.0,107
+112,0,113,211915,Amélie,2001,Jean-Pierre Jeunet,"Audrey Tautou, Mathieu Kassovitz, Rufus",8.3,713718,Comedy Romance,France Germany,French Russian English,10000000,173924742.0,122
+113,0,114,53604,The Apartment,1960,Billy Wilder,"Jack Lemmon, Shirley MacLaine, Fred MacMurray",8.3,167593,Comedy Drama Romance,USA,English,3000000,18778454.0,125
+114,0,115,1832382,A Separation,2011,Asghar Farhadi,"Payman Maadi, Leila Hatami, Sareh Bayat",8.3,225182,Drama,Iran France Australia,Persian,500000,22926076.0,123
+116,0,117,1255953,Incendies,2010,Denis Villeneuve,"Lubna Azabal, Mélissa Désormeaux-Poulin, Maxim Gaudette",8.3,155440,Drama Mystery War,Canada France,French Arabic English,6800000,7099598.0,131
+117,0,118,86250,Scarface,1983,Brian De Palma,"Al Pacino, Michelle Pfeiffer, Steven Bauer",8.3,758681,Crime Drama,USA,English Spanish,25000000,65884703.0,170
+118,0,119,435761,Toy Story 3,2010,Lee Unkrich,"Tom Hanks, Tim Allen, Joan Cusack",8.2,770018,Animation Adventure Comedy Family Fantasy,USA,English Spanish,200000000,1066970811.0,103
+119,0,120,56592,To Kill a Mockingbird,1962,Robert Mulligan,"Gregory Peck, John Megna, Frank Overton",8.3,297622,Crime Drama,USA,English,2000000,599146.0,129
+120,0,121,59578,For a Few Dollars More,1965,Sergio Leone,"Clint Eastwood, Lee Van Cleef, Gian Maria Volontè",8.2,236949,Western,Italy Spain West Germany,Italian English,600000,15000000.0,132
+121,0,122,1049413,Up,2009,Pete Docter,"Edward Asner, Jordan Nagai, John Ratzenberger",8.2,953763,Animation Adventure Comedy Family,USA,English,175000000,735099102.0,96
+122,0,123,97576,Indiana Jones and the Last Crusade,1989,Steven Spielberg,"Harrison Ford, Sean Connery, Alison Doody",8.2,702433,Action Adventure,USA,English German Greek Arabic,48000000,474171806.0,127
+123,0,124,119488,L.A. Confidential,1997,Curtis Hanson,"Kevin Spacey, Russell Crowe, Guy Pearce",8.2,540730,Crime Drama Mystery Thriller,USA,English,35000000,126216940.0,138
+124,0,125,42876,Rashomon,1950,Akira Kurosawa,"Toshirô Mifune, Machiko Kyô, Masayuki Mori",8.2,155735,Crime Drama Mystery,Japan,Japanese,250000,46808.0,88
+125,0,126,113277,Heat,1995,Michael Mann,"Al Pacino, Robert De Niro, Val Kilmer",8.2,590343,Crime Drama Thriller,USA,English Spanish,60000000,187436818.0,170
+127,0,128,95016,Die Hard,1988,John McTiernan,"Bruce Willis, Alan Rickman, Bonnie Bedelia",8.2,804642,Action Thriller,USA,English German Italian Japanese,28000000,141603197.0,132
+128,0,129,89881,Ran,1985,Akira Kurosawa,"Tatsuya Nakadai, Akira Terao, Jinpachi Nezu",8.2,115390,Action Drama War,Japan France,Japanese,11500000,4164283.0,162
+130,0,131,6966692,Green Book,2018,Peter Farrelly,"Viggo Mortensen, Mahershala Ali, Linda Cardellini",8.2,404853,Biography Comedy Drama Music,USA China,English Italian Russian German,23000000,321752656.0,130
+132,0,133,372784,Batman Begins,2005,Christopher Nolan,"Christian Bale, Michael Caine, Ken Watanabe",8.2,1332825,Action Adventure,UK USA,English Mandarin,150000000,373661946.0,140
+133,0,134,53291,Some Like It Hot,1959,Billy Wilder,"Marilyn Monroe, Tony Curtis, Jack Lemmon",8.2,248052,Comedy Music Romance,USA,English,2883848,195088.0,121
+134,0,135,42192,All About Eve,1950,Joseph L. Mankiewicz,"Bette Davis, Anne Baxter, George Sanders",8.2,122579,Drama,USA,English French,1400000,151052.0,138
+135,0,136,105695,Unforgiven,1992,Clint Eastwood,"Clint Eastwood, Gene Hackman, Morgan Freeman",8.2,382455,Drama Western,USA,English,14400000,159157447.0,130
+136,0,137,118849,Children of Heaven,1997,Majid Majidi,"Mohammad Amir Naji, Amir Farrokh Hashemian, Bahare Seddiqi",8.3,67385,Drama Family Sport,Iran,Persian,180000,933933.0,89
+137,0,138,347149,Howl's Moving Castle,2004,Hayao Miyazaki,"Chieko Baishô, Takuya Kimura, Tatsuya Gashûin",8.2,345134,Animation Adventure Family Fantasy,Japan,Japanese,24000000,236214446.0,119
+138,0,139,57115,The Great Escape,1963,John Sturges,"Steve McQueen, James Garner, Richard Attenborough",8.2,228485,Adventure Drama History Thriller War,USA,English German French Russian Spanish,4000000,228178.0,172
+139,0,140,993846,The Wolf of Wall Street,2013,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill, Margot Robbie",8.2,1224458,Biography Crime Drama,USA,English French,100000000,392000694.0,180
+140,0,141,55031,Judgment at Nuremberg,1961,Stanley Kramer,"Spencer Tracy, Burt Lancaster, Richard Widmark",8.2,71187,Drama War,USA,English German,3000000,12180.0,179
+141,0,142,112641,Casino,1995,Martin Scorsese,"Robert De Niro, Sharon Stone, Joe Pesci",8.2,476264,Crime Drama,USA France,English,52000000,116112375.0,178
+142,0,143,457430,Pan's Labyrinth,2006,Guillermo del Toro,"Ivana Baquero, Ariadna Gil, Sergi López",8.2,627816,Drama Fantasy War,Mexico Spain,Spanish,19000000,83850267.0,118
+143,0,144,40897,The Treasure of the Sierra Madre,1948,John Huston,"Humphrey Bogart, Walter Huston, Tim Holt",8.2,116240,Adventure Drama Western,USA Mexico,English Spanish,3000000,5014000.0,126
+144,0,145,268978,A Beautiful Mind,2001,Ron Howard,"Russell Crowe, Ed Harris, Jennifer Connelly",8.2,864829,Biography Drama,USA,English,58000000,316791257.0,135
+145,0,146,469494,There Will Be Blood,2007,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano, Ciarán Hinds",8.2,529561,Drama,USA,English American Sign Language,25000000,76182388.0,158
+146,0,147,1305806,The Secret in Their Eyes,2009,Juan José Campanella,"Ricardo Darín, Soledad Villamil, Pablo Rago",8.2,196965,Drama Mystery Romance Thriller,Argentina Spain,Spanish,2000000,35079650.0,129
+147,0,148,81398,Raging Bull,1980,Martin Scorsese,"Robert De Niro, Cathy Moriarty, Joe Pesci",8.2,327315,Biography Drama Sport,USA,English,18000000,23402427.0,129
+148,0,149,96283,My Neighbor Totoro,1988,Hayao Miyazaki,"Hitoshi Takagi, Noriko Hidaka, Chika Sakamoto",8.2,300496,Animation Family Fantasy,Japan,Japanese,3700000,30550727.0,86
+149,0,150,71315,Chinatown,1974,Roman Polanski,"Jack Nicholson, Faye Dunaway, John Huston",8.2,300403,Drama Mystery Thriller,USA,English Cantonese Spanish,6000000,29225935.0,130
+151,0,152,15864,The Gold Rush,1925,Charles Chaplin,"Charles Chaplin, Mack Swain, Tom Murray",8.2,103211,Adventure Comedy Drama Western,USA,None English,923000,26916.0,95
+152,0,153,5027774,"Three Billboards Outside Ebbing, Missouri",2017,Martin McDonagh,"Frances McDormand, Woody Harrelson, Sam Rockwell",8.1,450077,Comedy Crime Drama,UK USA,English,15000000,160192267.0,115
+153,0,154,46912,Dial M for Murder,1954,Alfred Hitchcock,"Ray Milland, Grace Kelly, Robert Cummings",8.2,161597,Crime Thriller,USA,English,1400000,18816.0,105
+154,0,155,477348,No Country for Old Men,2007,Ethan Coen,"Tommy Lee Jones, Javier Bardem, Josh Brolin",8.1,876992,Crime Drama Thriller,USA,English Spanish,25000000,171627166.0,122
+155,0,156,50976,The Seventh Seal,1957,Ingmar Bergman,"Max von Sydow, Gunnar Björnstrand, Bengt Ekerot",8.2,169032,Drama Fantasy History Thriller,Sweden,Swedish Latin,150000,230571.0,96
+156,0,157,1130884,Shutter Island,2010,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer, Mark Ruffalo",8.2,1160462,Mystery Thriller,USA,English German,80000000,294805697.0,138
+157,0,158,80678,The Elephant Man,1980,David Lynch,"Anthony Hopkins, John Hurt, Anne Bancroft",8.1,224247,Biography Drama,USA UK,English French,5000000,26023706.0,124
+158,0,159,84787,The Thing,1982,John Carpenter,"Kurt Russell, Wilford Brimley, Keith David",8.1,378631,Horror Mystery Sci-Fi,USA,English Norwegian,15000000,19632053.0,109
+159,0,160,167404,The Sixth Sense,1999,M. Night Shyamalan,"Bruce Willis, Haley Joel Osment, Toni Collette",8.1,924213,Drama Mystery Thriller,USA,English Latin Spanish,40000000,672806292.0,107
+160,0,161,2096673,Inside Out,2015,Pete Docter,"Amy Poehler, Bill Hader, Lewis Black",8.1,633542,Animation Adventure Comedy Drama Family Fantasy,USA,English Portuguese,175000000,858071350.0,95
+161,0,162,434409,V for Vendetta,2005,James McTeigue,"Hugo Weaving, Natalie Portman, Rupert Graves",8.1,1048774,Action Drama Sci-Fi Thriller,USA UK Germany,English,54000000,132511035.0,132
+163,0,164,4729430,Klaus,2019,Sergio Pablos,"Jason Schwartzman, J.K. Simmons, Rashida Jones",8.2,112726,Animation Adventure Comedy Family,Spain UK USA,English Saami,40000000,,96
+164,0,165,83658,Blade Runner,1982,Ridley Scott,"Harrison Ford, Rutger Hauer, Sean Young",8.1,705511,Action Sci-Fi Thriller,USA,English German Cantonese Japanese Hungarian Arabic Korean,28000000,41676878.0,117
+166,0,167,50212,The Bridge on the River Kwai,1957,David Lean,"William Holden, Alec Guinness, Jack Hawkins",8.1,206694,Adventure Drama War,UK USA,English Japanese Thai,3000000,27200000.0,161
+169,0,170,1291584,Warrior,2011,Gavin O'Connor,"Tom Hardy, Nick Nolte, Joel Edgerton",8.1,442525,Action Drama Sport,USA,English Spanish,25000000,23308615.0,140
+170,0,171,120382,The Truman Show,1998,Peter Weir,"Jim Carrey, Ed Harris, Laura Linney",8.1,962821,Comedy Drama,USA,English,60000000,264118201.0,103
+171,0,172,107290,Jurassic Park,1993,Steven Spielberg,"Sam Neill, Laura Dern, Jeff Goldblum",8.1,884961,Action Adventure Sci-Fi Thriller,USA,English Spanish,63000000,1033928303.0,127
+172,0,173,116282,Fargo,1996,Joel Coen,"William H. Macy, Frances McDormand, Steve Buscemi",8.1,629359,Crime Drama Thriller,USA UK,English,7000000,60611975.0,98
+173,0,174,266543,Finding Nemo,2003,Andrew Stanton,"Albert Brooks, Ellen DeGeneres, Alexander Gould",8.1,965032,Animation Adventure Comedy Family,USA,English,94000000,940352645.0,100
+174,0,175,31381,Gone with the Wind,1939,Victor Fleming,"Clark Gable, Vivien Leigh, Thomas Mitchell",8.1,294611,Drama History Romance War,USA,English,3977000,402352579.0,238
+175,0,176,353969,Memories of Murder,2003,Bong Joon Ho,"Kang-ho Song, Kim Sang-kyung, Roe-ha Kim",8.1,148127,Crime Drama Mystery Thriller,South Korea,Korean English,2800000,1159644.0,131
+177,0,178,266697,Kill Bill: Vol. 1,2003,Quentin Tarantino,"Uma Thurman, David Carradine, Daryl Hannah",8.1,1019084,Action Crime Drama Thriller,USA,English Japanese French,30000000,180906076.0,111
+178,0,179,47296,On the Waterfront,1954,Elia Kazan,"Marlon Brando, Karl Malden, Lee J. Cobb",8.1,144601,Crime Drama Thriller,USA,English,910000,,108
+180,0,181,17925,The General,1926,Clyde Bruckman,"Buster Keaton, Marion Mack, Glen Cavender",8.1,82738,Action Adventure Comedy Drama War,USA,None English,750000,,67
+181,0,182,77416,The Deer Hunter,1978,Michael Cimino,"Robert De Niro, Christopher Walken, John Cazale",8.1,316778,Drama War,USA,English Vietnamese French Russian Cantonese,15000000,49074379.0,183
+182,0,183,3011894,Wild Tales,2014,Damián Szifron,"Darío Grandinetti, María Marull, Mónica Villa",8.1,182000,Comedy Drama Thriller,Argentina Spain France UK,Spanish,3300000,30642704.0,122
+183,0,184,1205489,Gran Torino,2008,Clint Eastwood,"Clint Eastwood, Bee Vang, Christopher Carley",8.1,730077,Drama,Germany USA,English Hmong,33000000,269958228.0,116
+185,0,186,3170832,Room,2015,Lenny Abrahamson,"Brie Larson, Jacob Tremblay, Sean Bridgers",8.1,381944,Drama Thriller,Canada Ireland UK USA,English,13000000,35401758.0,118
+186,0,187,2278388,The Grand Budapest Hotel,2014,Wes Anderson,"Ralph Fiennes, F. Murray Abraham, Mathieu Amalric",8.1,726915,Adventure Comedy Crime,Germany USA,English French German,25000000,172945750.0,99
+189,0,190,112471,Before Sunrise,1995,Richard Linklater,"Ethan Hawke, Julie Delpy, Andrea Eckert",8.1,278995,Drama Romance,USA Austria Switzerland,English German French,2500000,5987386.0,101
+190,0,191,107207,In the Name of the Father,1993,Jim Sheridan,"Daniel Day-Lewis, Pete Postlethwaite, Alison Crosbie",8.1,161562,Biography Crime Drama,Ireland UK,English,13000000,65796862.0,133
+191,0,192,31679,Mr. Smith Goes to Washington,1939,Frank Capra,"James Stewart, Jean Arthur, Claude Rains",8.1,108707,Comedy Drama,USA,English,1900000,144738.0,129
+192,0,193,1392214,Prisoners,2013,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal, Viola Davis",8.1,617549,Crime Drama Mystery Thriller,USA,English,46000000,122126687.0,153
+193,0,194,2267998,Gone Girl,2014,David Fincher,"Ben Affleck, Rosamund Pike, Neil Patrick Harris",8.1,882846,Drama Mystery Thriller,USA,English,61000000,369330363.0,149
+195,0,196,264464,Catch Me If You Can,2002,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks, Christopher Walken",8.1,856680,Biography Crime Drama,USA Canada,English French,52000000,352114312.0,141
+196,0,197,2119532,Hacksaw Ridge,2016,Mel Gibson,"Andrew Garfield, Sam Worthington, Luke Bracey",8.1,451055,Biography Drama History War,Australia USA,English Japanese,40000000,180563636.0,139
+197,0,198,72684,Barry Lyndon,1975,Stanley Kubrick,"Ryan ONeal, Marisa Berenson, Patrick Magee",8.1,153459,Adventure Drama History War,UK USA,English German French,11000000,198992.0,185
+198,0,199,118715,The Big Lebowski,1998,Joel Coen,"Jeff Bridges, John Goodman, Julianne Moore",8.1,745631,Comedy Crime Sport,USA UK,English German Hebrew Spanish,15000000,46748672.0,117
+199,0,200,8108198,Andhadhun,2018,Sriram Raghavan,"Ayushmann Khurrana, Tabu, Radhika Apte",8.2,76713,Crime Drama Music Mystery Thriller,India,Hindi English,4500000,62475342.0,139
+200,0,201,2024544,12 Years a Slave,2013,Steve McQueen,"Chiwetel Ejiofor, Michael Kenneth Williams, Michael Fassbender",8.1,652729,Biography Drama History,USA UK,English,20000000,187733202.0,134
+201,0,202,1950186,Ford v Ferrari,2019,James Mangold,"Matt Damon, Christian Bale, Jon Bernthal",8.1,313908,Action Biography Drama Sport,USA,English Italian French Japanese,97600000,225508210.0,152
+203,0,204,892769,How to Train Your Dragon,2010,Dean DeBlois,"Jay Baruchel, Gerard Butler, Christopher Mintz-Plasse",8.1,678963,Animation Action Adventure Family Fantasy,USA,English,165000000,494879471.0,98
+204,0,205,1392190,Mad Max: Fury Road,2015,George Miller,"Tom Hardy, Charlize Theron, Nicholas Hoult",8.1,902789,Action Adventure Sci-Fi Thriller,Australia USA,English Russian,150000000,376109824.0,120
+206,0,207,405159,Million Dollar Baby,2004,Clint Eastwood,"Hilary Swank, Clint Eastwood, Morgan Freeman",8.1,645847,Drama Sport,USA,English Irish,30000000,216763646.0,132
+207,0,208,52618,Ben-Hur,1959,William Wyler,"Charlton Heston, Jack Hawkins, Stephen Boyd",8.1,222970,Adventure Drama History,USA,English,15000000,74427638.0,212
+208,0,209,74958,Network,1976,Sidney Lumet,"Faye Dunaway, William Holden, Peter Finch",8.1,147522,Drama,USA,English,3800000,23690757.0,121
+209,0,210,97165,Dead Poets Society,1989,Peter Weir,"Robin Williams, Robert Sean Leonard, Ethan Hawke",8.1,437278,Comedy Drama,USA,English Latin,16400000,235860116.0,128
+210,0,211,92005,Stand by Me,1986,Rob Reiner,"Wil Wheaton, River Phoenix, Corey Feldman",8.1,369574,Adventure Drama,USA,English,8000000,52287414.0,89
+212,0,213,1201607,Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,"Daniel Radcliffe, Emma Watson, Rupert Grint",8.1,782587,Adventure Drama Fantasy Mystery,UK USA,English,125000000,1342321665.0,130
+213,0,214,61512,Cool Hand Luke,1967,Stuart Rosenberg,"Paul Newman, George Kennedy, Strother Martin",8.1,164803,Crime Drama,USA,English,3200000,,127
+217,0,218,3315342,Logan,2017,James Mangold,"Hugh Jackman, Patrick Stewart, Dafne Keen",8.1,666247,Action Drama Sci-Fi Thriller,USA,English Spanish,97000000,619179950.0,137
+218,0,219,91763,Platoon,1986,Oliver Stone,"Charlie Sheen, Tom Berenger, Willem Dafoe",8.1,387401,Drama War,USA UK,English Vietnamese,6000000,138545632.0,120
+219,0,220,1028532,Hachi: A Dog's Tale,2009,Lasse Hallström,"Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa",8.1,259928,Biography Drama Family,UK USA,English Japanese,16000000,46749646.0,93
+221,0,222,79470,Monty Python's Life of Brian,1979,Terry Jones,"Graham Chapman, John Cleese, Michael Palin",8.1,373333,Comedy,UK,English Latin,4000000,20742852.0,94
+222,0,223,1895587,Spotlight,2015,Tom McCarthy,"Mark Ruffalo, Michael Keaton, Rachel McAdams",8.1,431033,Biography Crime Drama,USA,English,20000000,98690254.0,129
+223,0,224,395169,Hotel Rwanda,2004,Terry George,"Don Cheadle, Sophie Okonedo, Joaquin Phoenix",8.1,338574,Biography Drama History War,UK South Africa Italy USA,English French Kinyarwanda,17500000,33882243.0,121
+224,0,225,758758,Into the Wild,2007,Sean Penn,"Emile Hirsch, Vince Vaughn, Catherine Keener",8.1,583892,Adventure Biography Drama,USA,English Danish,15000000,56675895.0,148
+225,0,226,1979320,Rush,2013,Ron Howard,"Daniel Brühl, Chris Hemsworth, Olivia Wilde",8.1,442661,Action Biography Drama Sport,UK Germany USA,English German Italian French Spanish,38000000,96983009.0,123
+226,0,227,32976,Rebecca,1940,Alfred Hitchcock,"Laurence Olivier, Joan Fontaine, George Sanders",8.1,126421,Drama Mystery Romance Thriller,USA,English French,1288000,72275.0,130
+227,0,228,198781,"Monsters, Inc.",2001,Pete Docter,"Billy Crystal, John Goodman, Mary Gibbs",8.1,830609,Animation Adventure Comedy Family Fantasy,USA,English,115000000,579707738.0,92
+229,0,230,245712,Amores Perros,2000,Alejandro G. Iñárritu(as Alejandro González Iñárritu),"Emilio Echevarría, Gael García Bernal, Goya Toledo",8.1,227067,Drama Thriller,Mexico,Spanish,2000000,20908467.0,154
+231,0,232,75148,Rocky,1976,John G. Avildsen,"Sylvester Stallone, Talia Shire, Burt Young",8.1,528483,Drama Sport,USA,English,960000,117250382.0,120
+233,0,234,87544,Nausicaä of the Valley of the Wind,1984,Hayao Miyazaki,"Sumi Shimamoto, Mahito Tsujimura, Hisako Kyôda",8.1,155062,Animation Adventure Fantasy Sci-Fi,Japan,Japanese,1000000,8736506.0,117
+234,0,235,25316,It Happened One Night,1934,Frank Capra,"Clark Gable, Claudette Colbert, Walter Connolly",8.1,96001,Comedy Romance,USA,English,325000,,105
+237,0,238,58946,The Battle of Algiers,1966,Gillo Pontecorvo,"Brahim Hadjadj, Jean Martin, Yacef Saadi",8.1,54554,Drama War,Italy Algeria,Arabic French English,800000,964028.0,121
+240,0,241,381681,Before Sunset,2004,Richard Linklater,"Ethan Hawke, Julie Delpy, Vernon Dobtcheff",8.1,241714,Drama Romance,USA France,English French,2700000,15936507.0,80
+241,0,242,83922,Fanny and Alexander,1982,Ingmar Bergman,"Bertil Guve, Pernilla Allwin, Kristina Adolphson",8.1,58623,Drama,Sweden France West Germany,Swedish German Yiddish English French,6000000,6795771.0,188
+242,0,243,18455,Sunrise,1927,F.W. Murnau,"George OBrien, Janet Gaynor, Margaret Livingston",8.1,47561,Drama Romance,USA,English,200000,121107.0,94
+243,0,244,93779,The Princess Bride,1987,Rob Reiner,"Cary Elwes, Mandy Patinkin, Robin Wright",8.1,398806,Adventure Family Fantasy Romance,UK USA,English,16000000,30902642.0,98
+247,0,248,56217,The Man Who Shot Liberty Valance,1962,John Ford,"James Stewart, John Wayne, Vera Miles",8.1,70294,Drama Western,USA,English,3200000,,123
