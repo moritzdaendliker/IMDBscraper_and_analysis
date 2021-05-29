@@ -1,4 +1,4 @@
-# Programming with advanced computer languages - IMDBscraper and subsequent analysis of the data
+# Programming with advanced computer languages - IMDb scraper and subsequent analysis of the data
 
 ## Authors
 * Moritz Daendliker
