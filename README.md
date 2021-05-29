@@ -1,10 +1,11 @@
 # Programming with advanced computer languages - IMDBscraper and subsequent analysis of the data
 
 ## Authors
-* Nils Martens
-* Wouter Hendriks
-* Daniel Zimmermann
 * Moritz Daendliker
+* Wouter Hendriks
+* Nils Martens
+* Daniel Zimmermann
+
 
 
 ## Background
